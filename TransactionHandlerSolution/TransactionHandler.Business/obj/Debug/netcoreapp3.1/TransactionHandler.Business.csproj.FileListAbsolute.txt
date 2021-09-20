@@ -1,0 +1,9 @@
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\bin\Debug\netcoreapp3.1\TransactionHandler.Business.deps.json
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\bin\Debug\netcoreapp3.1\TransactionHandler.Business.dll
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\bin\Debug\netcoreapp3.1\TransactionHandler.Business.pdb
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.csproj.AssemblyReference.cache
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.AssemblyInfoInputs.cache
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.AssemblyInfo.cs
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.csproj.CoreCompileInputs.cache
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.dll
+C:\Users\hamid\source\repos\Public\TransactionHandlerSolution\TransactionHandler.Business\obj\Debug\netcoreapp3.1\TransactionHandler.Business.pdb
